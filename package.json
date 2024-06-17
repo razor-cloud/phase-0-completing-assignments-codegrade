@@ -25,6 +25,7 @@
     "mocha-multi": "^1.1.0"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "chai-fs": "^2.0.0"
   }
 }
